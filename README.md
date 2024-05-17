@@ -37,23 +37,37 @@ In sentence number 2, the word plays appears for the first time.
 The output should be 2.
 
 Sample Input 1
+
 plays
+
 3
+
 Raju is going to school
+
 Teja plays cricket
+
 Car has four wheels
 
 Sample Output 1
+
 2
 
 Sample Input 2
+
 brain
+
 5
+
 Python is a programming language
+
 The Human Brain is eighty percent Water
+
 Kamala scores high in science
+
 Curious brain learns fast
+
 Lion is a Land animal
 
 Sample Output 2
+
 4
