@@ -23,7 +23,9 @@ If the given word W does not appear in any of the sentences, then print 1 .
 
 Explanation
 
-Test Case: If the given W  plays and N  3 , the sentences is as follows:
+Test Case: 
+
+If the given W  plays and N  3 , the sentences is as follows:
 
 Raju is going to school
 Teja plays cricket
